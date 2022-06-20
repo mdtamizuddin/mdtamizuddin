@@ -1,7 +1,7 @@
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm TAMIZ UDDIN</h1>
+<h3 align="center">I am a MERN Stack Web-Developer</h3>
 </div>
 
 <div align="center">
@@ -32,9 +32,9 @@
 ### Backend  
 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" height="50" />  
 </div>
 </td><td valign="top" width="33%">
 
