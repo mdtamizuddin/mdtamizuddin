@@ -16,4 +16,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mdtamizuddin&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mdtamizuddin&label=Profile%20Views&color=3&pretty=false)](https://visitcount.itsvg.in)
